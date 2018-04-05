@@ -9,7 +9,7 @@ public class SoundController : MonoBehaviour {
     //2) Aseta SoundController kolmeen Secret tagilla varustettuun objektiin,
     //   jotka ovat "Chair", "Clock" ja "Plant"
     //TAI
-    //3) Jokin oma ratkaisu. Käytä kuitenkin tätä scriptiä.
+    //3) Jokin oma ratkaisu. Et välttämättä edes tarvitse tätä scritpiä.
 
     //Määrittele AudioSource
     //Määrittele AudioClip
